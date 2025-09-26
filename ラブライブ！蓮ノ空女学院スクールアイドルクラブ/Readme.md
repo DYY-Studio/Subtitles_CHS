@@ -6,3 +6,7 @@
 **本篇字幕（7/13前）均匹配官方YouTube发布版本，After可能要自己调一下延迟**
 
 由于官方后来转为YouTube推迟更新，所以时间轴我并不会调整至匹配YouTube，都需要各位自己调一下。
+
+NAS宕机了，部分字幕之后才能上传。
+
+后期的标准字体为[有爱圆体](https://github.com/nowar-fonts/Nowar-Rounded)
