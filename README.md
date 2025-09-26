@@ -13,3 +13,5 @@ This work is licensed under a
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
 本人手抄的或者独立翻译的字幕合集
+
+**无论字幕中标注为什么许可，均遵循上述许可，而非标注的许可**
